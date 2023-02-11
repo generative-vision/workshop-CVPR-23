@@ -7462,9 +7462,29 @@ a.th {
     max-width: 800px;
 }
 
-.instructor {
+/* .instructor {
   display: inline-block;
   width: 180px;
   text-align: center;
   margin-right: 10px;
-}
+} */
+
+.instructorphoto img {
+    height: 120px;
+    width: 120px;
+    border-radius: 120px;
+    margin-bottom: 10px;
+  }
+  
+  .instructorphotosmall img {
+    width: 60px;
+    border-radius: 60px;
+    margin-bottom: 10px;
+  }
+  
+  .instructor {
+    display: inline-block;
+    width: 220px;
+    text-align: center;
+    margin-right: 10px;
+  }
