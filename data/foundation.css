@@ -7461,3 +7461,10 @@ a.th {
 .f-dropdown.large {
     max-width: 800px;
 }
+
+.instructor {
+  display: inline-block;
+  width: 180px;
+  text-align: center;
+  margin-right: 10px;
+}
