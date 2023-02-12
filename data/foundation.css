@@ -7488,3 +7488,10 @@ a.th {
     text-align: center;
     margin-right: 25px;
   }
+
+  .instructor2 {
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+    margin-right: 25px;
+  }
